@@ -1,0 +1,20 @@
+h1 {
+    color: blue;
+}
+.first-letter {
+    font-size: 48pt;
+}
+p.intro {
+    width: 50%;
+    font-style: italic;
+}
+.important {
+    color: red;
+}
+.bacon {
+    width: 200px;
+    float: left; 
+}
+#meat-link {
+    background-color: yellow;
+}
