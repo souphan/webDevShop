@@ -1,6 +1,9 @@
 h1 {
     color: blue;
 }
+.movies img{
+    width: 100%;
+}
 .first-letter {
     font-size: 48pt;
 }
